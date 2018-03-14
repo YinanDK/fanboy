@@ -12,9 +12,9 @@
         <div class="container container-main-style">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="background-color: black;">
-                    <span class="gameProduct-icon-bar"></span>
-                    <span class="gameProduct-icon-bar"></span>
-                    <span class="gameProduct-icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand"><img src="images/nav_logo.png" class=" logo_image page-logo" width="40px"></a>
             </div>

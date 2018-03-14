@@ -56,7 +56,7 @@
     </div>
     <div class="container gameProduct-container">
         <div class="row gameProduct-row">
-            <div class="col-sm-3 produc-section">
+            <div class="col-md-3 produc-section">
                 <img src="images/mobile-phone-572865_640.jpg" class="gameProduct-icon">
                 <div class="gameProduct">
                     <p class="gameProduct-station"> Playstation 4 </p>
@@ -66,7 +66,7 @@
                     <button class="add-cart-button" type="button">Tilføj til kurv</button>
                 </div>
             </div>
-            <div class="col-sm-3 produc-section">
+            <div class="col-md-3 produc-section">
                 <img src="images/mobile-phone-2198770_640.png" class="gameProduct-icon">
                 <div class="gameProduct">
                     <p class="gameProduct-station"> Playstation 4 </p>
@@ -76,7 +76,7 @@
                     <button class="add-cart-button" type="button">Tilføj til kurv</button>
                 </div>
             </div>
-            <div class="col-sm-3 produc-section">
+            <div class="col-md-3 produc-section">
                 <img src="images/lens-826310_640.jpg" class="gameProduct-icon">
                 <div class="gameProduct">
                     <p class="gameProduct-station"> Playstation 4 </p>
@@ -86,7 +86,7 @@
                     <button class="add-cart-button" type="button">Tilføj til kurv</button>
                 </div>
             </div>
-            <div class="col-sm-3 produc-section">
+            <div class="col-md-3 produc-section">
                 <img src="images/apple-606761_640.jpg" class="gameProduct-icon">
                 <div class="gameProduct">
                     <p class="gameProduct-station"> Playstation 4 </p>
@@ -100,10 +100,10 @@
     </div>
     <div class="container videogame-container">
         <div class="row videogame-row">
-            <div class="col-sm-6 videogame-image">
+            <div class="col-md-6 videogame-image">
                 <img src="images/video_game.png" style="width:100%;">
             </div>
-            <div class="col-sm-6 videogame-description">
+            <div class="col-md-6 videogame-description">
                 <h3><b>Video Games Playing With Imagination</b></h3>
                 <div>
                     The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected. Spyware scan review is a free service for anyone interested in downloading spyware/adware removal software.
